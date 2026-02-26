@@ -1,0 +1,1 @@
+var json_Nasua_olivacea_21 = {"type":"FeatureCollection","name":"Nasua_olivacea_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Especie":"Nasua olivacea","TC":"FJ327","Latitud":-4.64251,"Longitud":-79.18632},"geometry":{"type":"Point","coordinates":[-79.186318299595541,-4.642509999682568]}}]}
